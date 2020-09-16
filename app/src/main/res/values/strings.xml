@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">VATapp</string>
+    <string name="unpr">Unit price</string>
+    <string name="entval">Enter a value</string>
+    <string name="numu">Number of units</string>
+    <string name="etNumUnits">Enter a value</string>
+    <string name="upevat">Unit price without VAT</string>
+    <string name="upinvat">Unit price with VAT</string>
+    <string name="calc">CALCULATE</string>
+    <string name="clr">CLEAR</string>
+    <string name="amvat">Amount excluding VAT</string>
+    <string name="vat">VAT</string>
+    <string name="mainvat">Amount including VAT</string>
+</resources>
